@@ -1,4 +1,2 @@
-# Comp527-project
-Demo: https://mcgill-my.sharepoint.com/:v:/g/personal/mandy_huang_mail_mcgill_ca/EehB1rG_wXVKj2s5wcJpPa0BEJJ2phyBII6uYiECoRLA5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=huxVS3
-
-Team members' name and contribution: https://mcgill-my.sharepoint.com/:w:/g/personal/devito_stevanus_mail_mcgill_ca/EeznYJZeE6hMptBSRAHoX1QB_qk1J2IhnXrbMtxR7iEvyw?e=YdDJmx
+# Comp527 Group 3 (Law and Order) final project
+Presentation video: https://mcgill-my.sharepoint.com/:v:/g/personal/mandy_huang_mail_mcgill_ca/EehB1rG_wXVKj2s5wcJpPa0BEJJ2phyBII6uYiECoRLA5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=huxVS3
